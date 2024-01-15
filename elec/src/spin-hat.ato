@@ -1,0 +1,2 @@
+module SpinHat:
+    signal gnd
